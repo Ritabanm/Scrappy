@@ -1,2 +1,2 @@
 # Scrappy
-Open Source Web Scraping tool, built with streamlit!
+Tool to scrape website data &amp; visualize it using a wordcloud
